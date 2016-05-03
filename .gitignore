@@ -1,4 +1,14 @@
 target
+JavaDoc
 .env
 .idea/
 *.iml
+*.pdf
+*.zip
+*.txt
+*.docx
+*.tmp
+*.rar
+*.doc
+*.rtf
+*.PNG
